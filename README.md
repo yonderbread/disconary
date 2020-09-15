@@ -8,7 +8,8 @@ config.json file in the root directory of this project like so...
 ```json
 {
   "token": "Your application token"
-}```
+}
+```
 
 ... Or just replace this bit of code with a string containing it:
 ```python

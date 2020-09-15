@@ -1,6 +1,6 @@
 ## Disconary
 A discord and theasaurus term lookup bot.
-Could be pointless, could be useful; I made this primarly just to try some things out :)
+Could be pointless, could be useful; I made this primarily just to try some things out :)
 
 ### Set up
 For authenticated this bot with your Discord application token, you can either create a 
